@@ -22,7 +22,7 @@ keypoints:
 
 Dataset citation includes all the following bibliographic information:
 - author (who is the creator of data set?)
-- title is there a person or team responsible for compiling data set?
+- title (is the name of a data set)
 - publisher (what entity is responsible for producing data set? )
 - date of publication (what year was the data set published?)
 - edition or version
