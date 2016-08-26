@@ -1,5 +1,5 @@
 ---
-title: "Lesson Design"
+title: "Define and understanding the term metadata"
 teaching: 10
 exercises: 0
 questions:
