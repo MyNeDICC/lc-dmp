@@ -21,12 +21,12 @@ keypoints:
 ## Elements
 
 Dataset citation includes all the following bibliographic information:
-- author
-- title
-- publisher (from the where the data is archived)
-- date of publication
+- author (who is the creator of data set?)
+- title is there a person or team responsible for compiling data set?
+- publisher (what entity is responsible for producing data set? )
+- date of publication (what year was the data set published?)
 - edition or version
-- access of information (URL)
-- DOI
+- access of information (URL) (From which webaddress is data set available at? is there a persistent link? Is the DOI available?
+- DOI- (Persistent digital object identifier)
 
 
